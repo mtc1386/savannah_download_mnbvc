@@ -1,1 +1,4 @@
 env/
+
+savannah_monitor_*.log
+file_url.txt
